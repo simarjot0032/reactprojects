@@ -82,7 +82,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("https://img.freepik.com/free-vector/blue-pink-halftone-background_53876-99004.jpg");
+  background: url(./assets/blue-pink-halftone-background_53876-99004.avif);
   background-repeat:no-repeat ;
   background-size:cover ;
   background-attachment:fixed ;
