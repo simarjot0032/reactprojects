@@ -10,7 +10,6 @@ export const Counter = ({ onclick }: prop) => {
         <div className="counter">
           <h1 className="count">{count}</h1>
           <div className="buttons">
-            {/* decrease */}
             <button
               className="decrease"
               onClick={() => {
